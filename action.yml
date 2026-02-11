@@ -1,5 +1,8 @@
 name: "TedDavidson's Action in Action"
 description: 'Greets someone and returns always 42.'
+branding:
+  icon: 'activity'
+  color: 'green'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
